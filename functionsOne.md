@@ -46,6 +46,4 @@ greet("Noah", "Ivy", "Chandler");
 //hi Noah
 //hi Ivy
 //hi Chandler
-
-//ex:
 ``` 
