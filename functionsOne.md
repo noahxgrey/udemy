@@ -10,3 +10,5 @@ function doSomething() {
 // then call it:
 doSomething();
 ```
+
+## Arguments
